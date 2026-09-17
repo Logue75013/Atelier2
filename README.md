@@ -1,5 +1,3 @@
-Atelier 2
+## TES-5 - Connexion
 
-## TES-4 - Création de compte
-
-Création d'un compte étudiant pour accéder à l'application CampusConnect.
+Ajout de la fonctionnalité de connexion des utilisateurs à CampusConnect.
